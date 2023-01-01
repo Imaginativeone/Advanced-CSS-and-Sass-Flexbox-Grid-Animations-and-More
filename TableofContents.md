@@ -1,29 +1,13 @@
-[![CircleCI Status](https://circleci.com/gh/testing-angular-applications/testing-angular-applications.svg?style=shield)](https://circleci.com/gh/testing-angular-applications/testing-angular-applications)
+# Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
-# Contacts App Starter
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+- [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+  - [ ] 01 Welcome, Welcome, Welcome!
+  - [ ] 02 Natours Project — Setup and First Steps (Part 1)
+  - [ ] 03 How CSS Works, A Look Behind the Scenes
+  - [ ] 04 Introduction to Sass and NPM
+  - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
+  - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
+  - [ ] 07 Trillo Project — Master Flexbox!
+  - [ ] 08 A Quick Introduction to CSS Grid Layouts
+  - [ ] 09 Nexter Project — Master CSS Grid Layouts!
+  - [ ] 10 That's It, Everyone!
