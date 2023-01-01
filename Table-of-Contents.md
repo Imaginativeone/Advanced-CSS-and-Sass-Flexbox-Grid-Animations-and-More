@@ -185,5 +185,37 @@
     - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.mp4
     - [ ] external-assets-links.txt
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Why CSS Grid_ A Whole New Mindset.en.srt
+    - [ ] 002 Why CSS Grid_ A Whole New Mindset.mp4
+    - [ ] 003 Quick Setup for This Section.en.srt
+    - [ ] 003 Quick Setup for This Section.mp4
+    - [ ] 004 Creating Our First Grid.en.srt
+    - [ ] 004 Creating Our First Grid.mp4
+    - [ ] 005 Getting Familiar with the fr Unit.en.srt
+    - [ ] 005 Getting Familiar with the fr Unit.mp4
+    - [ ] 006 Positioning Grid Items.en.srt
+    - [ ] 006 Positioning Grid Items.mp4
+    - [ ] 007 Spanning Grid Items.en.srt
+    - [ ] 007 Spanning Grid Items.mp4
+    - [ ] 008 Grid Challenge.en.srt
+    - [ ] 008 Grid Challenge.mp4
+    - [ ] 009 Grid Challenge_ A Basic Solution.en.srt
+    - [ ] 009 Grid Challenge_ A Basic Solution.mp4
+    - [ ] 010 Naming Grid Lines.en.srt
+    - [ ] 010 Naming Grid Lines.mp4
+    - [ ] 011 Naming Grid Areas.en.srt
+    - [ ] 011 Naming Grid Areas.mp4
+    - [ ] 012 Implicit Grids vs. Explicit Grids.en.srt
+    - [ ] 012 Implicit Grids vs. Explicit Grids.mp4
+    - [ ] 013 Aligning Grid Items.en.srt
+    - [ ] 013 Aligning Grid Items.mp4
+    - [ ] 014 Aligning Tracks.en.srt
+    - [ ] 014 Aligning Tracks.mp4
+    - [ ] 015 Using min-content, max-content and the minmax() function.en.srt
+    - [ ] 015 Using min-content, max-content and the minmax() function.mp4
+    - [ ] 016 Responsive Layouts with auto-fit and auto-fill.en.srt
+    - [ ] 016 Responsive Layouts with auto-fit and auto-fill.mp4
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
   - [ ] 10 That's It, Everyone!
