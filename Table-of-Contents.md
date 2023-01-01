@@ -139,6 +139,51 @@
     - [ ] 013 Wrapping up the Natours Project_ Final Considerations.en.srt
     - [ ] 013 Wrapping up the Natours Project_ Final Considerations.mp4
   - [ ] 07 Trillo Project — Master Flexbox!
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.en.srt
+    - [ ] 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.mp4
+    - [ ] 003 A Basic Intro to Flexbox_ The Flex Container.en.srt
+    - [ ] 003 A Basic Intro to Flexbox_ The Flex Container.mp4
+    - [ ] 004 A Basic Intro to Flexbox_ Flex Items.en.srt
+    - [ ] 004 A Basic Intro to Flexbox_ Flex Items.mp4
+    - [ ] 005 A Basic Intro to Flexbox_ Adding More Flex Items.en.srt
+    - [ ] 005 A Basic Intro to Flexbox_ Adding More Flex Items.mp4
+    - [ ] 006 Project Overview.en.srt
+    - [ ] 006 Project Overview.mp4
+    - [ ] 007 Defining Project Settings and Custom Properties.en.srt
+    - [ ] 007 Defining Project Settings and Custom Properties.mp4
+    - [ ] 008 Building the Overall Layout.en.srt
+    - [ ] 008 Building the Overall Layout.mp4
+    - [ ] 009 Building the Header - Part 1.en.srt
+    - [ ] 009 Building the Header - Part 1.mp4
+    - [ ] 010 Building the Header - Part 2.en.srt
+    - [ ] 010 Building the Header - Part 2.mp4
+    - [ ] 011 Building the Header - Part 3.en.srt
+    - [ ] 011 Building the Header - Part 3.mp4
+    - [ ] 012 Building the Navigation - Part 1.en.srt
+    - [ ] 012 Building the Navigation - Part 1.mp4
+    - [ ] 013 Building the Navigation - Part 2.en.srt
+    - [ ] 013 Building the Navigation - Part 2.mp4
+    - [ ] 014 Building the Hotel Overview - Part 1.en.srt
+    - [ ] 014 Building the Hotel Overview - Part 1.mp4
+    - [ ] 015 Building the Hotel Overview - Part 2.en.srt
+    - [ ] 015 Building the Hotel Overview - Part 2.mp4
+    - [ ] 016 Building the Description Section - Part 1.en.srt
+    - [ ] 016 Building the Description Section - Part 1.mp4
+    - [ ] 017 Building the Description Section - Part 2.en.srt
+    - [ ] 017 Building the Description Section - Part 2.mp4
+    - [ ] 018 Building the User Reviews Section.en.srt
+    - [ ] 018 Building the User Reviews Section.mp4
+    - [ ] 019 Building the CTA Section.en.srt
+    - [ ] 019 Building the CTA Section.mp4
+    - [ ] 020 Writing Media Queries - Part 1.en.srt
+    - [ ] 020 Writing Media Queries - Part 1.mp4
+    - [ ] 021 Writing Media Queries - Part 2.en.srt
+    - [ ] 021 Writing Media Queries - Part 2.mp4
+    - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.en.srt
+    - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.mp4
+    - [ ] external-assets-links.txt
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
   - [ ] 10 That's It, Everyone!
