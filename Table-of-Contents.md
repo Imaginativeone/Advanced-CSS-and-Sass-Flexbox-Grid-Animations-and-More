@@ -112,6 +112,32 @@
     - [ ] 024 Building a Pure CSS Popup - Part 2.en.srt
     - [ ] 024 Building a Pure CSS Popup - Part 2.mp4
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Mobile-First vs Desktop-First and Breakpoints.en.srt
+    - [ ] 002 Mobile-First vs Desktop-First and Breakpoints.mp4
+    - [ ] 003 Let's Use the Power of Sass Mixins to Write Media Queries.en.srt
+    - [ ] 003 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
+    - [ ] 004 Writing Media Queries - Base, Typography and Layout.en.srt
+    - [ ] 004 Writing Media Queries - Base, Typography and Layout.mp4
+    - [ ] 005 Writing Media Queries - Layout, About and Features Sections.en.srt
+    - [ ] 005 Writing Media Queries - Layout, About and Features Sections.mp4
+    - [ ] 006 Writing Media Queries - Tours, Stories and Booking Sections.en.srt
+    - [ ] 006 Writing Media Queries - Tours, Stories and Booking Sections.mp4
+    - [ ] 007 An Overview of Responsive Images.en.srt
+    - [ ] 007 An Overview of Responsive Images.mp4
+    - [ ] 008 Responsive Images in HTML - Art Direction and Density Switching.en.srt
+    - [ ] 008 Responsive Images in HTML - Art Direction and Density Switching.mp4
+    - [ ] 009 Responsive Images in HTML - Density and Resolution Switching.en.srt
+    - [ ] 009 Responsive Images in HTML - Density and Resolution Switching.mp4
+    - [ ] 010 Responsive Images in CSS.en.srt
+    - [ ] 010 Responsive Images in CSS.mp4
+    - [ ] 011 Testing for Browser Support with @supports.en.srt
+    - [ ] 011 Testing for Browser Support with @supports.mp4
+    - [ ] 012 Setting up a Simple Build Process with NPM Scripts.en.srt
+    - [ ] 012 Setting up a Simple Build Process with NPM Scripts.mp4
+    - [ ] 013 Wrapping up the Natours Project_ Final Considerations.en.srt
+    - [ ] 013 Wrapping up the Natours Project_ Final Considerations.mp4
   - [ ] 07 Trillo Project — Master Flexbox!
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
