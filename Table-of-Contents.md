@@ -260,3 +260,6 @@
     - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.mp4
     - [ ] external-assets-links.txt
   - [ ] 10 That's It, Everyone!
+    - [ ] 001 See You Next Time, CSS Master!.en.srt
+    - [ ] 001 See You Next Time, CSS Master!.mp4
+    - [ ] 002 My Other Courses + Updates.html
