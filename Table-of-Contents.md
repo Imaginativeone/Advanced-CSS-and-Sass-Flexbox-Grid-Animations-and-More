@@ -2,9 +2,9 @@
 
 - [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
   - [ ] Section 01 Welcome, Welcome, Welcome!
-    - [ ] 001 001 03:39 Welcome to the Most Advanced CSS Course Ever!.mp4
-      - [ ] 7 Sections, 20 hours of content
-    - [ ] 002 002 00:00 READ BEFORE YOU START!.html
+    - [x] 001 001 03:54 Welcome to the Most Advanced CSS Course Ever!.mp4
+      - [x] 7 Sections, 20 hours of content
+    - [x] 002 002 00:00 READ BEFORE YOU START!.html
     - [ ] 003 003 02:52 Setting up Our Tools.mp4
       - [ ] Code Editor
       - [ ] Browser
