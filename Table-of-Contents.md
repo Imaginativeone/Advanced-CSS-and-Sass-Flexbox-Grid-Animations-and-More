@@ -5,7 +5,22 @@
     - [ ] 001 Welcome to the Most Advanced CSS Course Ever!.mp4
     - [ ] 002 READ BEFORE YOU START!.html
     - [ ] 003 Setting up Our Tools.mp4
-  - [ ] 02 Natours Project — Setup and First Steps (Part 1)
+  - [ ] Section 02 Natours Project — Setup and First Steps (Part 1)
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Project Overview.en.srt
+    - [ ] 002 Project Overview.mp4
+    - [ ] 003 Building the Header - Part 1.en.srt
+    - [ ] 003 Building the Header - Part 1.mp4
+    - [ ] 004 Building the Header - Part 2.en.srt
+    - [ ] 004 Building the Header - Part 2.mp4
+    - [ ] 005 Creating Cool CSS Animations.en.srt
+    - [ ] 005 Creating Cool CSS Animations.mp4
+    - [ ] 006 Building a Complex Animated Button - Part 1.en.srt
+    - [ ] 006 Building a Complex Animated Button - Part 1.mp4
+    - [ ] 007 Building a Complex Animated Button - Part 2.en.srt
+    - [ ] 007 Building a Complex Animated Button - Part 2.mp4
+    - [ ] external-assets-links.txt
   - [ ] 03 How CSS Works, A Look Behind the Scenes
   - [ ] 04 Introduction to Sass and NPM
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
