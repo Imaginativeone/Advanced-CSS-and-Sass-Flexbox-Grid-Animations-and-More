@@ -1,7 +1,10 @@
 # Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
 - [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
-  - [ ] 01 Welcome, Welcome, Welcome!
+  - [ ] Section 01 Welcome, Welcome, Welcome!
+    - [ ] 001 Welcome to the Most Advanced CSS Course Ever!.mp4
+    - [ ] 002 READ BEFORE YOU START!.html
+    - [ ] 003 Setting up Our Tools.mp4
   - [ ] 02 Natours Project — Setup and First Steps (Part 1)
   - [ ] 03 How CSS Works, A Look Behind the Scenes
   - [ ] 04 Introduction to Sass and NPM
