@@ -63,6 +63,54 @@
     - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.en.srt
     - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Converting Our CSS Code to Sass_ Variables and Nesting.en.srt
+    - [ ] 002 Converting Our CSS Code to Sass_ Variables and Nesting.mp4
+    - [ ] 003 Implementing the 7-1 CSS Architecture with Sass.en.srt
+    - [ ] 003 Implementing the 7-1 CSS Architecture with Sass.mp4
+    - [ ] 004 Review_ Responsive Design Principles and Layout Types.en.srt
+    - [ ] 004 Review_ Responsive Design Principles and Layout Types.mp4
+    - [ ] 005 Building a Custom Grid with Floats.en.srt
+    - [ ] 005 Building a Custom Grid with Floats.mp4
+    - [ ] 006 Building the About Section - Part 1.en.srt
+    - [ ] 006 Building the About Section - Part 1.mp4
+    - [ ] 007 Building the About Section - Part 2.en.srt
+    - [ ] 007 Building the About Section - Part 2.mp4
+    - [ ] 008 Building the About Section - Part 3.en.srt
+    - [ ] 008 Building the About Section - Part 3.mp4
+    - [ ] 009 Building the Features Section.en.srt
+    - [ ] 009 Building the Features Section.mp4
+    - [ ] 010 Building the Tours Section - Part 1.en.srt
+    - [ ] 010 Building the Tours Section - Part 1.mp4
+    - [ ] 011 Building the Tours Section - Part 2.en.srt
+    - [ ] 011 Building the Tours Section - Part 2.mp4
+    - [ ] 012 Building the Tours Section - Part 3.en.srt
+    - [ ] 012 Building the Tours Section - Part 3.mp4
+    - [ ] 013 Building the Stories Section - Part 1.en.srt
+    - [ ] 013 Building the Stories Section - Part 1.mp4
+    - [ ] 014 Building the Stories Section - Part 2.en.srt
+    - [ ] 014 Building the Stories Section - Part 2.mp4
+    - [ ] 015 Building the Stories Section - Part 3.en.srt
+    - [ ] 015 Building the Stories Section - Part 3.mp4
+    - [ ] 016 Building the Booking Section - Part 1.en.srt
+    - [ ] 016 Building the Booking Section - Part 1.mp4
+    - [ ] 017 Building the Booking Section - Part 2.en.srt
+    - [ ] 017 Building the Booking Section - Part 2.mp4
+    - [ ] 018 Building the Booking Section - Part 3.en.srt
+    - [ ] 018 Building the Booking Section - Part 3.mp4
+    - [ ] 019 Building the Footer.en.srt
+    - [ ] 019 Building the Footer.mp4
+    - [ ] 020 Building the Navigation - Part 1.en.srt
+    - [ ] 020 Building the Navigation - Part 1.mp4
+    - [ ] 021 Building the Navigation - Part 2.en.srt
+    - [ ] 021 Building the Navigation - Part 2.mp4
+    - [ ] 022 Building the Navigation - Part 3.en.srt
+    - [ ] 022 Building the Navigation - Part 3.mp4
+    - [ ] 023 Building a Pure CSS Popup - Part 1.en.srt
+    - [ ] 023 Building a Pure CSS Popup - Part 1.mp4
+    - [ ] 024 Building a Pure CSS Popup - Part 2.en.srt
+    - [ ] 024 Building a Pure CSS Popup - Part 2.mp4
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
   - [ ] 07 Trillo Project — Master Flexbox!
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
