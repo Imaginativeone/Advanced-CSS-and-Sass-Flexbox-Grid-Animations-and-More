@@ -22,6 +22,29 @@
     - [ ] 007 Building a Complex Animated Button - Part 2.mp4
     - [ ] external-assets-links.txt
   - [ ] 03 How CSS Works, A Look Behind the Scenes
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).en.srt
+    - [ ] 002 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
+    - [ ] 003 How CSS Works Behind the Scenes_ An Overview.en.srt
+    - [ ] 003 How CSS Works Behind the Scenes_ An Overview.mp4
+    - [ ] 004 How CSS is Parsed, Part 1_ The Cascade and Specificity.en.srt
+    - [ ] 004 How CSS is Parsed, Part 1_ The Cascade and Specificity.mp4
+    - [ ] 005 Specificity in Practice.en.srt
+    - [ ] 005 Specificity in Practice.mp4
+    - [ ] 006 How CSS is Parsed, Part 2_ Value Processing.en.srt
+    - [ ] 006 How CSS is Parsed, Part 2_ Value Processing.mp4
+    - [ ] 007 How CSS is Parsed, Part 3_ Inheritance.en.srt
+    - [ ] 007 How CSS is Parsed, Part 3_ Inheritance.mp4
+    - [ ] 008 Converting px to rem_ An Effective Workflow.en.srt
+    - [ ] 008 Converting px to rem_ An Effective Workflow.mp4
+    - [ ] 009 How CSS Renders a Website_ The Visual Formatting Model.en.srt
+    - [ ] 009 How CSS Renders a Website_ The Visual Formatting Model.mp4
+    - [ ] 010 CSS Architecture, Components and BEM.en.srt
+    - [ ] 010 CSS Architecture, Components and BEM.mp4
+    - [ ] 011 Implementing BEM in the Natours Project.en.srt
+    - [ ] 011 Implementing BEM in the Natours Project.mp4
+    - [ ] external-assets-links.txt
   - [ ] 04 Introduction to Sass and NPM
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
