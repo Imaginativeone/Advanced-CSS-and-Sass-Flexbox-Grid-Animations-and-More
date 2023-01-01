@@ -218,4 +218,45 @@
     - [ ] 016 Responsive Layouts with auto-fit and auto-fill.en.srt
     - [ ] 016 Responsive Layouts with auto-fit and auto-fill.mp4
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
+    - [ ] 001 Project Overview and Setup.en.srt
+    - [ ] 001 Project Overview and Setup.mp4
+    - [ ] 002 Building the Overall Layout - Part 1.en.srt
+    - [ ] 002 Building the Overall Layout - Part 1.mp4
+    - [ ] 003 Building the Overall Layout - Part 2.en.srt
+    - [ ] 003 Building the Overall Layout - Part 2.mp4
+    - [ ] 004 Building the Features Section - Part 1.en.srt
+    - [ ] 004 Building the Features Section - Part 1.mp4
+    - [ ] 005 Building the Features Section - Part 2.en.srt
+    - [ ] 005 Building the Features Section - Part 2.mp4
+    - [ ] 006 Building the Story Section - Part 1.en.srt
+    - [ ] 006 Building the Story Section - Part 1.mp4
+    - [ ] 007 Building the Story Section - Part 2.en.srt
+    - [ ] 007 Building the Story Section - Part 2.mp4
+    - [ ] 008 Building the Homes Section - Part 1.en.srt
+    - [ ] 008 Building the Homes Section - Part 1.mp4
+    - [ ] 009 Building the Homes Section - Part 2.en.srt
+    - [ ] 009 Building the Homes Section - Part 2.mp4
+    - [ ] 010 Building the Gallery - Part 1.en.srt
+    - [ ] 010 Building the Gallery - Part 1.mp4
+    - [ ] 011 Building the Gallery - Part 2.en.srt
+    - [ ] 011 Building the Gallery - Part 2.mp4
+    - [ ] 012 Building the Footer.en.srt
+    - [ ] 012 Building the Footer.mp4
+    - [ ] 013 Building the Sidebar.en.srt
+    - [ ] 013 Building the Sidebar.mp4
+    - [ ] 014 Building the Header - Part 1.en.srt
+    - [ ] 014 Building the Header - Part 1.mp4
+    - [ ] 015 Building the Header - Part 2.en.srt
+    - [ ] 015 Building the Header - Part 2.mp4
+    - [ ] 016 Building the Realtors Section.en.srt
+    - [ ] 016 Building the Realtors Section.mp4
+    - [ ] 017 Writing Media Queries - Part 1.en.srt
+    - [ ] 017 Writing Media Queries - Part 1.mp4
+    - [ ] 018 Writing Media Queries - Part 2.en.srt
+    - [ ] 018 Writing Media Queries - Part 2.mp4
+    - [ ] 019 Browser Support for CSS Grid.en.srt
+    - [ ] 019 Browser Support for CSS Grid.mp4
+    - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.en.srt
+    - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.mp4
+    - [ ] external-assets-links.txt
   - [ ] 10 That's It, Everyone!
