@@ -1,0 +1,3 @@
+- [ ] 001 See You Next Time, CSS Master!.en.srt
+- [ ] 001 See You Next Time, CSS Master!.mp4
+- [ ] 002 My Other Courses + Updates.html
