@@ -63,82 +63,80 @@
     - [ ] 052 023 00:00 Building a Pure CSS Popup - Part 1.mp4
     - [ ] 053 024 00:00 Building a Pure CSS Popup - Part 2.mp4
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Mobile-First vs Desktop-First and Breakpoints.mp4
-    - [ ] 003 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
-    - [ ] 004 Writing Media Queries - Base, Typography and Layout.mp4
-    - [ ] 005 Writing Media Queries - Layout, About and Features Sections.mp4
-    - [ ] 006 Writing Media Queries - Tours, Stories and Booking Sections.mp4
-    - [ ] 007 An Overview of Responsive Images.mp4
-    - [ ] 008 Responsive Images in HTML - Art Direction and Density Switching.mp4
-    - [ ] 009 Responsive Images in HTML - Density and Resolution Switching.mp4
-    - [ ] 010 Responsive Images in CSS.mp4
-    - [ ] 011 Testing for Browser Support with @supports.mp4
-    - [ ] 012 Setting up a Simple Build Process with NPM Scripts.mp4
-    - [ ] 013 Wrapping up the Natours Project_ Final Considerations.mp4
+    - [ ] 054 001 00:00 Section Intro.mp4
+    - [ ] 055 002 00:00 Mobile-First vs Desktop-First and Breakpoints.mp4
+    - [ ] 056 003 00:00 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
+    - [ ] 057 004 00:00 Writing Media Queries - Base, Typography and Layout.mp4
+    - [ ] 058 005 00:00 Writing Media Queries - Layout, About and Features Sections.mp4
+    - [ ] 059 006 00:00 Writing Media Queries - Tours, Stories and Booking Sections.mp4
+    - [ ] 060 007 00:00 An Overview of Responsive Images.mp4
+    - [ ] 061 008 00:00 Responsive Images in HTML - Art Direction and Density Switching.mp4
+    - [ ] 062 009 00:00 Responsive Images in HTML - Density and Resolution Switching.mp4
+    - [ ] 063 010 00:00 Responsive Images in CSS.mp4
+    - [ ] 064 011 00:00 Testing for Browser Support with @supports.mp4
+    - [ ] 065 012 00:00 Setting up a Simple Build Process with NPM Scripts.mp4
+    - [ ] 066 013 00:00 Wrapping up the Natours Project_ Final Considerations.mp4
   - [ ] 07 Trillo Project — Master Flexbox!
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.mp4
-    - [ ] 003 A Basic Intro to Flexbox_ The Flex Container.mp4
-    - [ ] 004 A Basic Intro to Flexbox_ Flex Items.mp4
-    - [ ] 005 A Basic Intro to Flexbox_ Adding More Flex Items.mp4
-    - [ ] 006 Project Overview.mp4
-    - [ ] 007 Defining Project Settings and Custom Properties.mp4
-    - [ ] 008 Building the Overall Layout.mp4
-    - [ ] 009 Building the Header - Part 1.mp4
-    - [ ] 010 Building the Header - Part 2.mp4
-    - [ ] 011 Building the Header - Part 3.mp4
-    - [ ] 012 Building the Navigation - Part 1.mp4
-    - [ ] 013 Building the Navigation - Part 2.mp4
-    - [ ] 014 Building the Hotel Overview - Part 1.mp4
-    - [ ] 015 Building the Hotel Overview - Part 2.mp4
-    - [ ] 016 Building the Description Section - Part 1.mp4
-    - [ ] 017 Building the Description Section - Part 2.mp4
-    - [ ] 018 Building the User Reviews Section.mp4
-    - [ ] 019 Building the CTA Section.mp4
-    - [ ] 020 Writing Media Queries - Part 1.mp4
-    - [ ] 021 Writing Media Queries - Part 2.mp4
-    - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.mp4
-    - [ ] external-assets-links.txt
+    - [ ] 067 001 00:00 Section Intro.mp4
+    - [ ] 068 002 00:00 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.mp4
+    - [ ] 069 003 00:00 A Basic Intro to Flexbox_ The Flex Container.mp4
+    - [ ] 070 004 00:00 A Basic Intro to Flexbox_ Flex Items.mp4
+    - [ ] 071 005 00:00 A Basic Intro to Flexbox_ Adding More Flex Items.mp4
+    - [ ] 072 006 00:00 Project Overview.mp4
+    - [ ] 073 007 00:00 Defining Project Settings and Custom Properties.mp4
+    - [ ] 074 008 00:00 Building the Overall Layout.mp4
+    - [ ] 075 009 00:00 Building the Header - Part 1.mp4
+    - [ ] 076 010 00:00 Building the Header - Part 2.mp4
+    - [ ] 077 011 00:00 Building the Header - Part 3.mp4
+    - [ ] 078 012 00:00 Building the Navigation - Part 1.mp4
+    - [ ] 079 013 00:00 Building the Navigation - Part 2.mp4
+    - [ ] 080 014 00:00 Building the Hotel Overview - Part 1.mp4
+    - [ ] 081 015 00:00 Building the Hotel Overview - Part 2.mp4
+    - [ ] 082 016 00:00 Building the Description Section - Part 1.mp4
+    - [ ] 083 017 00:00 Building the Description Section - Part 2.mp4
+    - [ ] 084 018 00:00 Building the User Reviews Section.mp4
+    - [ ] 085 019 00:00 Building the CTA Section.mp4
+    - [ ] 086 020 00:00 Writing Media Queries - Part 1.mp4
+    - [ ] 087 021 00:00 Writing Media Queries - Part 2.mp4
+    - [ ] 088 022 00:00 Wrapping up the Trillo Project_ Final Considerations.mp4
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Why CSS Grid_ A Whole New Mindset.mp4
-    - [ ] 003 Quick Setup for This Section.mp4
-    - [ ] 004 Creating Our First Grid.mp4
-    - [ ] 005 Getting Familiar with the fr Unit.mp4
-    - [ ] 006 Positioning Grid Items.mp4
-    - [ ] 007 Spanning Grid Items.mp4
-    - [ ] 008 Grid Challenge.mp4
-    - [ ] 009 Grid Challenge_ A Basic Solution.mp4
-    - [ ] 010 Naming Grid Lines.mp4
-    - [ ] 011 Naming Grid Areas.mp4
-    - [ ] 012 Implicit Grids vs. Explicit Grids.mp4
-    - [ ] 013 Aligning Grid Items.mp4
-    - [ ] 014 Aligning Tracks.mp4
-    - [ ] 015 Using min-content, max-content and the minmax() function.mp4
-    - [ ] 016 Responsive Layouts with auto-fit and auto-fill.mp4
+    - [ ] 089 001 00:00 Section Intro.mp4
+    - [ ] 090 002 00:00 Why CSS Grid_ A Whole New Mindset.mp4
+    - [ ] 091 003 00:00 Quick Setup for This Section.mp4
+    - [ ] 092 004 00:00 Creating Our First Grid.mp4
+    - [ ] 093 005 00:00 Getting Familiar with the fr Unit.mp4
+    - [ ] 094 006 00:00 Positioning Grid Items.mp4
+    - [ ] 095 007 00:00 Spanning Grid Items.mp4
+    - [ ] 096 008 00:00 Grid Challenge.mp4
+    - [ ] 097 009 00:00 Grid Challenge_ A Basic Solution.mp4
+    - [ ] 098 010 00:00 Naming Grid Lines.mp4
+    - [ ] 099 011 00:00 Naming Grid Areas.mp4
+    - [ ] 100 012 00:00 Implicit Grids vs. Explicit Grids.mp4
+    - [ ] 101 013 00:00 Aligning Grid Items.mp4
+    - [ ] 102 014 00:00 Aligning Tracks.mp4
+    - [ ] 103 015 00:00 Using min-content, max-content and the minmax() function.mp4
+    - [ ] 104 016 00:00 Responsive Layouts with auto-fit and auto-fill.mp4
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
-    - [ ] 001 Project Overview and Setup.mp4
-    - [ ] 002 Building the Overall Layout - Part 1.mp4
-    - [ ] 003 Building the Overall Layout - Part 2.mp4
-    - [ ] 004 Building the Features Section - Part 1.mp4
-    - [ ] 005 Building the Features Section - Part 2.mp4
-    - [ ] 006 Building the Story Section - Part 1.mp4
-    - [ ] 007 Building the Story Section - Part 2.mp4
-    - [ ] 008 Building the Homes Section - Part 1.mp4
-    - [ ] 009 Building the Homes Section - Part 2.mp4
-    - [ ] 010 Building the Gallery - Part 1.mp4
-    - [ ] 011 Building the Gallery - Part 2.mp4
-    - [ ] 012 Building the Footer.mp4
-    - [ ] 013 Building the Sidebar.mp4
-    - [ ] 014 Building the Header - Part 1.mp4
-    - [ ] 015 Building the Header - Part 2.mp4
-    - [ ] 016 Building the Realtors Section.mp4
-    - [ ] 017 Writing Media Queries - Part 1.mp4
-    - [ ] 018 Writing Media Queries - Part 2.mp4
-    - [ ] 019 Browser Support for CSS Grid.mp4
-    - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.mp4
-    - [ ] external-assets-links.txt
+    - [ ] 105 001 00:00 Project Overview and Setup.mp4
+    - [ ] 106 002 00:00 Building the Overall Layout - Part 1.mp4
+    - [ ] 107 003 00:00 Building the Overall Layout - Part 2.mp4
+    - [ ] 108 004 00:00 Building the Features Section - Part 1.mp4
+    - [ ] 109 005 00:00 Building the Features Section - Part 2.mp4
+    - [ ] 110 006 00:00 Building the Story Section - Part 1.mp4
+    - [ ] 111 007 00:00 Building the Story Section - Part 2.mp4
+    - [ ] 112 008 00:00 Building the Homes Section - Part 1.mp4
+    - [ ] 113 009 00:00 Building the Homes Section - Part 2.mp4
+    - [ ] 114 010 00:00 Building the Gallery - Part 1.mp4
+    - [ ] 115 011 00:00 Building the Gallery - Part 2.mp4
+    - [ ] 116 012 00:00 Building the Footer.mp4
+    - [ ] 117 013 00:00 Building the Sidebar.mp4
+    - [ ] 118 014 00:00 Building the Header - Part 1.mp4
+    - [ ] 119 015 00:00 Building the Header - Part 2.mp4
+    - [ ] 120 016 00:00 Building the Realtors Section.mp4
+    - [ ] 121 017 00:00 Writing Media Queries - Part 1.mp4
+    - [ ] 122 018 00:00 Writing Media Queries - Part 2.mp4
+    - [ ] 123 019 00:00 Browser Support for CSS Grid.mp4
+    - [ ] 124 020 00:00 Wrapping up the Nexter Project_ Final Considerations.mp4
   - [ ] 10 That's It, Everyone!
-    - [ ] 001 See You Next Time, CSS Master!.mp4
-    - [ ] 002 My Other Courses + Updates.html
+    - [ ] 125 001 00:00 See You Next Time, CSS Master!.mp4
+    - [ ] 126 002 00:00 My Other Courses + Updates.html
