@@ -9,258 +9,136 @@
       - [x] Code Editor - Visual Studio Code
       - [x] Browser - Chrome
   - [ ] Section 02 Natours Project — Setup and First Steps (Part 1)
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Project Overview.mp4
-    - [ ] 003 Building the Header - Part 1.en.srt
-    - [ ] 003 Building the Header - Part 1.mp4
-    - [ ] 004 Building the Header - Part 2.en.srt
-    - [ ] 004 Building the Header - Part 2.mp4
-    - [ ] 005 Creating Cool CSS Animations.en.srt
-    - [ ] 005 Creating Cool CSS Animations.mp4
-    - [ ] 006 Building a Complex Animated Button - Part 1.en.srt
-    - [ ] 006 Building a Complex Animated Button - Part 1.mp4
-    - [ ] 007 Building a Complex Animated Button - Part 2.en.srt
-    - [ ] 007 Building a Complex Animated Button - Part 2.mp4
-    - [ ] external-assets-links.txt
+    - [x] 004 001 00:44 Section Intro.mp4
+    - [x] 005 002 05:42 Project Overview.mp4
+    - [ ] 006 003 24:23 Building the Header - Part 1.mp4
+    - [ ] 007 004 17:01 Building the Header - Part 2.mp4
+    - [ ] 008 005 19:19 Creating Cool CSS Animations.mp4
+    - [ ] 009 006 15:57 Building a Complex Animated Button - Part 1.mp4
+    - [ ] 010 007 12:51 Building a Complex Animated Button - Part 2.mp4
   - [ ] 03 How CSS Works, A Look Behind the Scenes
-    - [ ] 001 Section Intro.en.srt
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).en.srt
-    - [ ] 002 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
-    - [ ] 003 How CSS Works Behind the Scenes_ An Overview.en.srt
-    - [ ] 003 How CSS Works Behind the Scenes_ An Overview.mp4
-    - [ ] 004 How CSS is Parsed, Part 1_ The Cascade and Specificity.en.srt
-    - [ ] 004 How CSS is Parsed, Part 1_ The Cascade and Specificity.mp4
-    - [ ] 005 Specificity in Practice.en.srt
-    - [ ] 005 Specificity in Practice.mp4
-    - [ ] 006 How CSS is Parsed, Part 2_ Value Processing.en.srt
-    - [ ] 006 How CSS is Parsed, Part 2_ Value Processing.mp4
-    - [ ] 007 How CSS is Parsed, Part 3_ Inheritance.en.srt
-    - [ ] 007 How CSS is Parsed, Part 3_ Inheritance.mp4
-    - [ ] 008 Converting px to rem_ An Effective Workflow.en.srt
-    - [ ] 008 Converting px to rem_ An Effective Workflow.mp4
-    - [ ] 009 How CSS Renders a Website_ The Visual Formatting Model.en.srt
-    - [ ] 009 How CSS Renders a Website_ The Visual Formatting Model.mp4
-    - [ ] 010 CSS Architecture, Components and BEM.en.srt
-    - [ ] 010 CSS Architecture, Components and BEM.mp4
-    - [ ] 011 Implementing BEM in the Natours Project.en.srt
-    - [ ] 011 Implementing BEM in the Natours Project.mp4
-    - [ ] external-assets-links.txt
+    - [ ] 011 001 00:00 Section Intro.mp4
+    - [ ] 012 002 00:00 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
+    - [ ] 013 003 00:00 How CSS Works Behind the Scenes_ An Overview.mp4
+    - [ ] 014 004 00:00 How CSS is Parsed, Part 1_ The Cascade and Specificity.mp4
+    - [ ] 015 005 00:00 Specificity in Practice.mp4
+    - [ ] 016 006 00:00 How CSS is Parsed, Part 2_ Value Processing.mp4
+    - [ ] 017 007 00:00 How CSS is Parsed, Part 3_ Inheritance.mp4
+    - [ ] 018 008 00:00 Converting px to rem_ An Effective Workflow.mp4
+    - [ ] 019 009 00:00 How CSS Renders a Website_ The Visual Formatting Model.mp4
+    - [ ] 020 010 00:00 CSS Architecture, Components and BEM.mp4
+    - [ ] 021 011 00:00 Implementing BEM in the Natours Project.mp4
   - [ ] 04 Introduction to SASS and NPM
-    - [ ] 001 Section Intro.en.srt
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 What is Sass_.en.srt
-    - [ ] 002 What is Sass_.mp4
-    - [ ] 003 First Steps with Sass_ Variables and Nesting.en.srt
-    - [ ] 003 First Steps with Sass_ Variables and Nesting.mp4
-    - [ ] 004 First Steps with Sass_ Mixins, Extends and Functions.en.srt
-    - [ ] 004 First Steps with Sass_ Mixins, Extends and Functions.mp4
-    - [ ] 005 A Brief Introduction to the Command Line.en.srt
-    - [ ] 005 A Brief Introduction to the Command Line.mp4
-    - [ ] 006 NPM Packages_ Let's Install Sass Locally.en.srt
-    - [ ] 006 NPM Packages_ Let's Install Sass Locally.mp4
-    - [ ] 007 NPM Scripts_ Let's Write and Compile Sass Locally.en.srt
-    - [ ] 007 NPM Scripts_ Let's Write and Compile Sass Locally.mp4
-    - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.en.srt
-    - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
+    - [ ] 022 001 00:00 Section Intro.mp4
+    - [ ] 023 002 00:00 What is Sass_.mp4
+    - [ ] 024 003 00:00 First Steps with Sass_ Variables and Nesting.mp4
+    - [ ] 025 004 00:00 First Steps with Sass_ Mixins, Extends and Functions.mp4
+    - [ ] 026 005 00:00 A Brief Introduction to the Command Line.mp4
+    - [ ] 027 006 00:00 NPM Packages_ Let's Install Sass Locally.mp4
+    - [ ] 028 007 00:00 NPM Scripts_ Let's Write and Compile Sass Locally.mp4
+    - [ ] 029 008 00:00 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
-    - [ ] 001 Section Intro.en.srt
-    - [ ] 001 Section Intro.mp4
-    - [ ] 002 Converting Our CSS Code to Sass_ Variables and Nesting.en.srt
-    - [ ] 002 Converting Our CSS Code to Sass_ Variables and Nesting.mp4
-    - [ ] 003 Implementing the 7-1 CSS Architecture with Sass.en.srt
-    - [ ] 003 Implementing the 7-1 CSS Architecture with Sass.mp4
-    - [ ] 004 Review_ Responsive Design Principles and Layout Types.en.srt
-    - [ ] 004 Review_ Responsive Design Principles and Layout Types.mp4
-    - [ ] 005 Building a Custom Grid with Floats.en.srt
-    - [ ] 005 Building a Custom Grid with Floats.mp4
-    - [ ] 006 Building the About Section - Part 1.en.srt
-    - [ ] 006 Building the About Section - Part 1.mp4
-    - [ ] 007 Building the About Section - Part 2.en.srt
-    - [ ] 007 Building the About Section - Part 2.mp4
-    - [ ] 008 Building the About Section - Part 3.en.srt
-    - [ ] 008 Building the About Section - Part 3.mp4
-    - [ ] 009 Building the Features Section.en.srt
-    - [ ] 009 Building the Features Section.mp4
-    - [ ] 010 Building the Tours Section - Part 1.en.srt
-    - [ ] 010 Building the Tours Section - Part 1.mp4
-    - [ ] 011 Building the Tours Section - Part 2.en.srt
-    - [ ] 011 Building the Tours Section - Part 2.mp4
-    - [ ] 012 Building the Tours Section - Part 3.en.srt
-    - [ ] 012 Building the Tours Section - Part 3.mp4
-    - [ ] 013 Building the Stories Section - Part 1.en.srt
-    - [ ] 013 Building the Stories Section - Part 1.mp4
-    - [ ] 014 Building the Stories Section - Part 2.en.srt
-    - [ ] 014 Building the Stories Section - Part 2.mp4
-    - [ ] 015 Building the Stories Section - Part 3.en.srt
-    - [ ] 015 Building the Stories Section - Part 3.mp4
-    - [ ] 016 Building the Booking Section - Part 1.en.srt
-    - [ ] 016 Building the Booking Section - Part 1.mp4
-    - [ ] 017 Building the Booking Section - Part 2.en.srt
-    - [ ] 017 Building the Booking Section - Part 2.mp4
-    - [ ] 018 Building the Booking Section - Part 3.en.srt
-    - [ ] 018 Building the Booking Section - Part 3.mp4
-    - [ ] 019 Building the Footer.en.srt
-    - [ ] 019 Building the Footer.mp4
-    - [ ] 020 Building the Navigation - Part 1.en.srt
-    - [ ] 020 Building the Navigation - Part 1.mp4
-    - [ ] 021 Building the Navigation - Part 2.en.srt
-    - [ ] 021 Building the Navigation - Part 2.mp4
-    - [ ] 022 Building the Navigation - Part 3.en.srt
-    - [ ] 022 Building the Navigation - Part 3.mp4
-    - [ ] 023 Building a Pure CSS Popup - Part 1.en.srt
-    - [ ] 023 Building a Pure CSS Popup - Part 1.mp4
-    - [ ] 024 Building a Pure CSS Popup - Part 2.en.srt
-    - [ ] 024 Building a Pure CSS Popup - Part 2.mp4
+    - [ ] 030 001 00:00 Section Intro.mp4
+    - [ ] 031 002 00:00 Converting Our CSS Code to Sass_ Variables and Nesting.mp4
+    - [ ] 032 003 00:00 Implementing the 7-1 CSS Architecture with Sass.mp4
+    - [ ] 033 004 00:00 Review_ Responsive Design Principles and Layout Types.mp4
+    - [ ] 034 005 00:00 Building a Custom Grid with Floats.mp4
+    - [ ] 035 006 00:00 Building the About Section - Part 1.mp4
+    - [ ] 036 007 00:00 Building the About Section - Part 2.mp4
+    - [ ] 037 008 00:00 Building the About Section - Part 3.mp4
+    - [ ] 038 009 00:00 Building the Features Section.mp4
+    - [ ] 039 010 00:00 Building the Tours Section - Part 1.mp4
+    - [ ] 040 011 00:00 Building the Tours Section - Part 2.mp4
+    - [ ] 041 012 00:00 Building the Tours Section - Part 3.mp4
+    - [ ] 042 013 00:00 Building the Stories Section - Part 1.mp4
+    - [ ] 043 014 00:00 Building the Stories Section - Part 2.mp4
+    - [ ] 044 015 00:00 Building the Stories Section - Part 3.mp4
+    - [ ] 045 016 00:00 Building the Booking Section - Part 1.mp4
+    - [ ] 046 017 00:00 Building the Booking Section - Part 2.mp4
+    - [ ] 047 018 00:00 Building the Booking Section - Part 3.mp4
+    - [ ] 048 019 00:00 Building the Footer.mp4
+    - [ ] 049 020 00:00 Building the Navigation - Part 1.mp4
+    - [ ] 050 021 00:00 Building the Navigation - Part 2.mp4
+    - [ ] 051 022 00:00 Building the Navigation - Part 3.mp4
+    - [ ] 052 023 00:00 Building a Pure CSS Popup - Part 1.mp4
+    - [ ] 053 024 00:00 Building a Pure CSS Popup - Part 2.mp4
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
-    - [ ] 001 Section Intro.en.srt
     - [ ] 001 Section Intro.mp4
-    - [ ] 002 Mobile-First vs Desktop-First and Breakpoints.en.srt
     - [ ] 002 Mobile-First vs Desktop-First and Breakpoints.mp4
-    - [ ] 003 Let's Use the Power of Sass Mixins to Write Media Queries.en.srt
     - [ ] 003 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
-    - [ ] 004 Writing Media Queries - Base, Typography and Layout.en.srt
     - [ ] 004 Writing Media Queries - Base, Typography and Layout.mp4
-    - [ ] 005 Writing Media Queries - Layout, About and Features Sections.en.srt
     - [ ] 005 Writing Media Queries - Layout, About and Features Sections.mp4
-    - [ ] 006 Writing Media Queries - Tours, Stories and Booking Sections.en.srt
     - [ ] 006 Writing Media Queries - Tours, Stories and Booking Sections.mp4
-    - [ ] 007 An Overview of Responsive Images.en.srt
     - [ ] 007 An Overview of Responsive Images.mp4
-    - [ ] 008 Responsive Images in HTML - Art Direction and Density Switching.en.srt
     - [ ] 008 Responsive Images in HTML - Art Direction and Density Switching.mp4
-    - [ ] 009 Responsive Images in HTML - Density and Resolution Switching.en.srt
     - [ ] 009 Responsive Images in HTML - Density and Resolution Switching.mp4
-    - [ ] 010 Responsive Images in CSS.en.srt
     - [ ] 010 Responsive Images in CSS.mp4
-    - [ ] 011 Testing for Browser Support with @supports.en.srt
     - [ ] 011 Testing for Browser Support with @supports.mp4
-    - [ ] 012 Setting up a Simple Build Process with NPM Scripts.en.srt
     - [ ] 012 Setting up a Simple Build Process with NPM Scripts.mp4
-    - [ ] 013 Wrapping up the Natours Project_ Final Considerations.en.srt
     - [ ] 013 Wrapping up the Natours Project_ Final Considerations.mp4
   - [ ] 07 Trillo Project — Master Flexbox!
-    - [ ] 001 Section Intro.en.srt
     - [ ] 001 Section Intro.mp4
-    - [ ] 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.en.srt
     - [ ] 002 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.mp4
-    - [ ] 003 A Basic Intro to Flexbox_ The Flex Container.en.srt
     - [ ] 003 A Basic Intro to Flexbox_ The Flex Container.mp4
-    - [ ] 004 A Basic Intro to Flexbox_ Flex Items.en.srt
     - [ ] 004 A Basic Intro to Flexbox_ Flex Items.mp4
-    - [ ] 005 A Basic Intro to Flexbox_ Adding More Flex Items.en.srt
     - [ ] 005 A Basic Intro to Flexbox_ Adding More Flex Items.mp4
-    - [ ] 006 Project Overview.en.srt
     - [ ] 006 Project Overview.mp4
-    - [ ] 007 Defining Project Settings and Custom Properties.en.srt
     - [ ] 007 Defining Project Settings and Custom Properties.mp4
-    - [ ] 008 Building the Overall Layout.en.srt
     - [ ] 008 Building the Overall Layout.mp4
-    - [ ] 009 Building the Header - Part 1.en.srt
     - [ ] 009 Building the Header - Part 1.mp4
-    - [ ] 010 Building the Header - Part 2.en.srt
     - [ ] 010 Building the Header - Part 2.mp4
-    - [ ] 011 Building the Header - Part 3.en.srt
     - [ ] 011 Building the Header - Part 3.mp4
-    - [ ] 012 Building the Navigation - Part 1.en.srt
     - [ ] 012 Building the Navigation - Part 1.mp4
-    - [ ] 013 Building the Navigation - Part 2.en.srt
     - [ ] 013 Building the Navigation - Part 2.mp4
-    - [ ] 014 Building the Hotel Overview - Part 1.en.srt
     - [ ] 014 Building the Hotel Overview - Part 1.mp4
-    - [ ] 015 Building the Hotel Overview - Part 2.en.srt
     - [ ] 015 Building the Hotel Overview - Part 2.mp4
-    - [ ] 016 Building the Description Section - Part 1.en.srt
     - [ ] 016 Building the Description Section - Part 1.mp4
-    - [ ] 017 Building the Description Section - Part 2.en.srt
     - [ ] 017 Building the Description Section - Part 2.mp4
-    - [ ] 018 Building the User Reviews Section.en.srt
     - [ ] 018 Building the User Reviews Section.mp4
-    - [ ] 019 Building the CTA Section.en.srt
     - [ ] 019 Building the CTA Section.mp4
-    - [ ] 020 Writing Media Queries - Part 1.en.srt
     - [ ] 020 Writing Media Queries - Part 1.mp4
-    - [ ] 021 Writing Media Queries - Part 2.en.srt
     - [ ] 021 Writing Media Queries - Part 2.mp4
-    - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.en.srt
     - [ ] 022 Wrapping up the Trillo Project_ Final Considerations.mp4
     - [ ] external-assets-links.txt
   - [ ] 08 A Quick Introduction to CSS Grid Layouts
-    - [ ] 001 Section Intro.en.srt
     - [ ] 001 Section Intro.mp4
-    - [ ] 002 Why CSS Grid_ A Whole New Mindset.en.srt
     - [ ] 002 Why CSS Grid_ A Whole New Mindset.mp4
-    - [ ] 003 Quick Setup for This Section.en.srt
     - [ ] 003 Quick Setup for This Section.mp4
-    - [ ] 004 Creating Our First Grid.en.srt
     - [ ] 004 Creating Our First Grid.mp4
-    - [ ] 005 Getting Familiar with the fr Unit.en.srt
     - [ ] 005 Getting Familiar with the fr Unit.mp4
-    - [ ] 006 Positioning Grid Items.en.srt
     - [ ] 006 Positioning Grid Items.mp4
-    - [ ] 007 Spanning Grid Items.en.srt
     - [ ] 007 Spanning Grid Items.mp4
-    - [ ] 008 Grid Challenge.en.srt
     - [ ] 008 Grid Challenge.mp4
-    - [ ] 009 Grid Challenge_ A Basic Solution.en.srt
     - [ ] 009 Grid Challenge_ A Basic Solution.mp4
-    - [ ] 010 Naming Grid Lines.en.srt
     - [ ] 010 Naming Grid Lines.mp4
-    - [ ] 011 Naming Grid Areas.en.srt
     - [ ] 011 Naming Grid Areas.mp4
-    - [ ] 012 Implicit Grids vs. Explicit Grids.en.srt
     - [ ] 012 Implicit Grids vs. Explicit Grids.mp4
-    - [ ] 013 Aligning Grid Items.en.srt
     - [ ] 013 Aligning Grid Items.mp4
-    - [ ] 014 Aligning Tracks.en.srt
     - [ ] 014 Aligning Tracks.mp4
-    - [ ] 015 Using min-content, max-content and the minmax() function.en.srt
     - [ ] 015 Using min-content, max-content and the minmax() function.mp4
-    - [ ] 016 Responsive Layouts with auto-fit and auto-fill.en.srt
     - [ ] 016 Responsive Layouts with auto-fit and auto-fill.mp4
   - [ ] 09 Nexter Project — Master CSS Grid Layouts!
-    - [ ] 001 Project Overview and Setup.en.srt
     - [ ] 001 Project Overview and Setup.mp4
-    - [ ] 002 Building the Overall Layout - Part 1.en.srt
     - [ ] 002 Building the Overall Layout - Part 1.mp4
-    - [ ] 003 Building the Overall Layout - Part 2.en.srt
     - [ ] 003 Building the Overall Layout - Part 2.mp4
-    - [ ] 004 Building the Features Section - Part 1.en.srt
     - [ ] 004 Building the Features Section - Part 1.mp4
-    - [ ] 005 Building the Features Section - Part 2.en.srt
     - [ ] 005 Building the Features Section - Part 2.mp4
-    - [ ] 006 Building the Story Section - Part 1.en.srt
     - [ ] 006 Building the Story Section - Part 1.mp4
-    - [ ] 007 Building the Story Section - Part 2.en.srt
     - [ ] 007 Building the Story Section - Part 2.mp4
-    - [ ] 008 Building the Homes Section - Part 1.en.srt
     - [ ] 008 Building the Homes Section - Part 1.mp4
-    - [ ] 009 Building the Homes Section - Part 2.en.srt
     - [ ] 009 Building the Homes Section - Part 2.mp4
-    - [ ] 010 Building the Gallery - Part 1.en.srt
     - [ ] 010 Building the Gallery - Part 1.mp4
-    - [ ] 011 Building the Gallery - Part 2.en.srt
     - [ ] 011 Building the Gallery - Part 2.mp4
-    - [ ] 012 Building the Footer.en.srt
     - [ ] 012 Building the Footer.mp4
-    - [ ] 013 Building the Sidebar.en.srt
     - [ ] 013 Building the Sidebar.mp4
-    - [ ] 014 Building the Header - Part 1.en.srt
     - [ ] 014 Building the Header - Part 1.mp4
-    - [ ] 015 Building the Header - Part 2.en.srt
     - [ ] 015 Building the Header - Part 2.mp4
-    - [ ] 016 Building the Realtors Section.en.srt
     - [ ] 016 Building the Realtors Section.mp4
-    - [ ] 017 Writing Media Queries - Part 1.en.srt
     - [ ] 017 Writing Media Queries - Part 1.mp4
-    - [ ] 018 Writing Media Queries - Part 2.en.srt
     - [ ] 018 Writing Media Queries - Part 2.mp4
-    - [ ] 019 Browser Support for CSS Grid.en.srt
     - [ ] 019 Browser Support for CSS Grid.mp4
-    - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.en.srt
     - [ ] 020 Wrapping up the Nexter Project_ Final Considerations.mp4
     - [ ] external-assets-links.txt
   - [ ] 10 That's It, Everyone!
-    - [ ] 001 See You Next Time, CSS Master!.en.srt
     - [ ] 001 See You Next Time, CSS Master!.mp4
     - [ ] 002 My Other Courses + Updates.html
