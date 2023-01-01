@@ -3,6 +3,7 @@
 - [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
   - [ ] Section 01 Welcome, Welcome, Welcome!
     - [ ] 001 Welcome to the Most Advanced CSS Course Ever!.mp4
+      - [ ] 7 Sections, 20 hours of content
     - [ ] 002 READ BEFORE YOU START!.html
     - [ ] 003 Setting up Our Tools.mp4
   - [ ] Section 02 Natours Project — Setup and First Steps (Part 1)
