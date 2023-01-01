@@ -45,7 +45,23 @@
     - [ ] 011 Implementing BEM in the Natours Project.en.srt
     - [ ] 011 Implementing BEM in the Natours Project.mp4
     - [ ] external-assets-links.txt
-  - [ ] 04 Introduction to Sass and NPM
+  - [ ] 04 Introduction to SASS and NPM
+    - [ ] 001 Section Intro.en.srt
+    - [ ] 001 Section Intro.mp4
+    - [ ] 002 What is Sass_.en.srt
+    - [ ] 002 What is Sass_.mp4
+    - [ ] 003 First Steps with Sass_ Variables and Nesting.en.srt
+    - [ ] 003 First Steps with Sass_ Variables and Nesting.mp4
+    - [ ] 004 First Steps with Sass_ Mixins, Extends and Functions.en.srt
+    - [ ] 004 First Steps with Sass_ Mixins, Extends and Functions.mp4
+    - [ ] 005 A Brief Introduction to the Command Line.en.srt
+    - [ ] 005 A Brief Introduction to the Command Line.mp4
+    - [ ] 006 NPM Packages_ Let's Install Sass Locally.en.srt
+    - [ ] 006 NPM Packages_ Let's Install Sass Locally.mp4
+    - [ ] 007 NPM Scripts_ Let's Write and Compile Sass Locally.en.srt
+    - [ ] 007 NPM Scripts_ Let's Write and Compile Sass Locally.mp4
+    - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.en.srt
+    - [ ] 008 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
   - [ ] 06 Natours Project — Advanced Responsive Design (Part 3)
   - [ ] 07 Trillo Project — Master Flexbox!
