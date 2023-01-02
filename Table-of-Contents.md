@@ -134,10 +134,10 @@
     - [ ] A 118 014 00:00 Building the Header - Part 1.mp4
     - [ ] A 119 015 00:00 Building the Header - Part 2.mp4
     - [ ] B 120 016 00:00 Building the Realtors Section.mp4
-    - [ ] B 121 017 17:12 Writing Media Queries - Part 1.mp4
-    - [ ] B 122 018 18:38 Writing Media Queries - Part 2.mp4
-    - [ ] B 123 019 08:35 Browser Support for CSS Grid.mp4
-    - [ ] B 124 020 06:44 Wrapping up the Nexter Project_ Final Considerations.mp4
+    - [ ] 121 017 17:12 Writing Media Queries - Part 1.mp4
+    - [ ] 122 018 18:38 Writing Media Queries - Part 2.mp4
+    - [ ] 123 019 08:35 Browser Support for CSS Grid.mp4
+    - [ ] 124 020 06:44 Wrapping up the Nexter Project_ Final Considerations.mp4
   - [ ] 10 That's It, Everyone!
-    - [ ] B 125 001 02:28 See You Next Time, CSS Master!.mp4
-    - [ ] B 126 002 01:00 My Other Courses + Updates.html
+    - [ ] 125 001 02:28 See You Next Time, CSS Master!.mp4
+    - [ ] 126 002 01:00 My Other Courses + Updates.html
