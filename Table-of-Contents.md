@@ -1,6 +1,7 @@
 # Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
 - [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+## Section 01 Welcome, Welcome, Welcome!
   - [x] Section 01 Welcome, Welcome, Welcome!
     - [x] 001 001 03:54 Welcome to the Most Advanced CSS Course Ever!.mp4
       - [x] 7 Sections, 20 hours of content
@@ -11,32 +12,32 @@
   - [ ] Section 02 Natours Project — Setup and First Steps (Part 1)
     - [x] 004 001 00:44 Section Intro.mp4
     - [x] 005 002 05:42 Project Overview.mp4
-    - [ ] 006 003 24:23 Building the Header - Part 1.mp4
+    - [x] 006 003 24:23 Building the Header - Part 1.mp4
     - [ ] 007 004 17:01 Building the Header - Part 2.mp4
     - [ ] 008 005 19:19 Creating Cool CSS Animations.mp4
     - [ ] 009 006 15:57 Building a Complex Animated Button - Part 1.mp4
     - [ ] 010 007 12:51 Building a Complex Animated Button - Part 2.mp4
   - [ ] 03 How CSS Works, A Look Behind the Scenes
-    - [ ] 011 001 00:00 Section Intro.mp4
-    - [ ] 012 002 00:00 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
-    - [ ] 013 003 00:00 How CSS Works Behind the Scenes_ An Overview.mp4
-    - [ ] 014 004 00:00 How CSS is Parsed, Part 1_ The Cascade and Specificity.mp4
-    - [ ] 015 005 00:00 Specificity in Practice.mp4
-    - [ ] 016 006 00:00 How CSS is Parsed, Part 2_ Value Processing.mp4
-    - [ ] 017 007 00:00 How CSS is Parsed, Part 3_ Inheritance.mp4
-    - [ ] 018 008 00:00 Converting px to rem_ An Effective Workflow.mp4
-    - [ ] 019 009 00:00 How CSS Renders a Website_ The Visual Formatting Model.mp4
-    - [ ] 020 010 00:00 CSS Architecture, Components and BEM.mp4
-    - [ ] 021 011 00:00 Implementing BEM in the Natours Project.mp4
+    - [ ] 011 001 01:38 Section Intro.mp4
+    - [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
+    - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4
+    - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4
+    - [ ] 015 005 05:55 Specificity in Practice.mp4
+    - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
+    - [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
+    - [ ] 018 008 14:01 Converting px to rem: An Effective Workflow.mp4
+    - [ ] 019 009 12:45 How CSS Renders a Website_ The Visual Formatting Model.mp4
+    - [ ] 020 010 09:17 CSS Architecture, Components and BEM.mp4
+    - [ ] 021 011 05:14 Implementing BEM in the Natours Project.mp4
   - [ ] 04 Introduction to SASS and NPM
-    - [ ] 022 001 00:00 Section Intro.mp4
-    - [ ] 023 002 00:00 What is Sass_.mp4
-    - [ ] 024 003 00:00 First Steps with Sass_ Variables and Nesting.mp4
-    - [ ] 025 004 00:00 First Steps with Sass_ Mixins, Extends and Functions.mp4
-    - [ ] 026 005 00:00 A Brief Introduction to the Command Line.mp4
-    - [ ] 027 006 00:00 NPM Packages_ Let's Install Sass Locally.mp4
-    - [ ] 028 007 00:00 NPM Scripts_ Let's Write and Compile Sass Locally.mp4
-    - [ ] 029 008 00:00 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
+    - [ ] 022 001 01:02 Section Intro.mp4
+    - [ ] 023 002 04:58 What is Sass?.mp4
+    - [ ] 024 003 25:22 First Steps with Sass_ Variables and Nesting.mp4
+    - [ ] 025 004 17:05 First Steps with Sass_ Mixins, Extends and Functions.mp4
+    - [ ] 026 005 11:21 A Brief Introduction to the Command Line.mp4
+    - [ ] 027 006 13:48 NPM Packages_ Let's Install Sass Locally.mp4
+    - [ ] 028 007 13:10 NPM Scripts_ Let's Write and Compile Sass Locally.mp4
+    - [ ] 029 008 06:22 The Easiest Way of Automatically Reloading a Page on File Changes.mp4
   - [ ] 05 Natours Project — Using Advanced CSS and Sass (Part 2)
     - [ ] 030 001 00:00 Section Intro.mp4
     - [ ] 031 002 00:00 Converting Our CSS Code to Sass_ Variables and Nesting.mp4
