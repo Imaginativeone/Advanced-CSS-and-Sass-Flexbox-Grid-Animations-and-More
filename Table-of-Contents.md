@@ -13,8 +13,8 @@
     - [x] 004 001 00:44 Section Intro.mp4
     - [x] 005 002 05:42 Project Overview.mp4
     - [x] 006 003 24:23 Building the Header - Part 1.mp4
-    - [ ] 007 004 17:01 Building the Header - Part 2.mp4
-    - [ ] 008 005 19:19 Creating Cool CSS Animations.mp4
+    - [x] 007 004 17:01 Building the Header - Part 2.mp4
+    - [x] 008 005 19:19 Creating Cool CSS Animations.mp4 010323 0500-0617
     - [ ] 009 006 15:57 Building a Complex Animated Button - Part 1.mp4
     - [ ] 010 007 12:51 Building a Complex Animated Button - Part 2.mp4
   - [ ] 03 How CSS Works, A Look Behind the Scenes
