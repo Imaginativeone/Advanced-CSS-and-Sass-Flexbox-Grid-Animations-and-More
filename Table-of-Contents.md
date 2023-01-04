@@ -15,14 +15,14 @@
     - [x] 006 003 24:23 Building the Header - Part 1.mp4
     - [x] 007 004 17:01 Building the Header - Part 2.mp4
     - [x] 008 005 19:19 Creating Cool CSS Animations.mp4 010323 0500-0617
-    - [ ] 009 006 15:57 Building a Complex Animated Button - Part 1.mp4
-    - [ ] 010 007 12:51 Building a Complex Animated Button - Part 2.mp4
+    - [ ] 009 006 15:57 Building a Complex Animated Button - Part 1.mp4 | X
+    - [ ] 010 007 12:51 Building a Complex Animated Button - Part 2.mp4 | X
   - [ ] 03 How CSS Works, A Look Behind the Scenes
-    - [ ] 011 001 01:38 Section Intro.mp4
-    - [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4
-    - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4
-    - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4
-    - [ ] 015 005 05:55 Specificity in Practice.mp4
+    - [ ] 011 001 01:38 Section Intro.mp4 | +++
+    - [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4 | +++
+    - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
+    - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4 | +++
+    - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
     - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
     - [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
     - [ ] 018 008 14:01 Converting px to rem: An Effective Workflow.mp4
@@ -141,3 +141,7 @@
   - [ ] 10 That's It, Everyone!
     - [ ] 125 001 02:28 See You Next Time, CSS Master!.mp4
     - [ ] 126 002 01:00 My Other Courses + Updates.html
+
+## Legend
+X - Watched the video, didn't do the code yet
++++ - Watched the video, verify if code is needed
