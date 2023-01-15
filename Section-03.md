@@ -17,6 +17,8 @@
 | 4. User declarations                         | 4. Elements, pseudoelements          |                       |
 | 5. Default browser (User Agent) declarations |                                      |                       |
 
+  - 05:11 Calculating Specificities: Example Exercise
+
 - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
 - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
 - [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
