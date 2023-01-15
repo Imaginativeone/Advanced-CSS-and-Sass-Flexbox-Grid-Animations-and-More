@@ -1,8 +1,9 @@
 # Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 - [ ] Advanced CSS and Sass: Flexbox, Grid, Animations and More!
-## Section 01 Welcome, Welcome, Welcome!
-## Section 02 Natours Project — Setup and First Steps (Part 1)
-## 03 How CSS Works, A Look Behind the Scenes
+## Focus on Section 03 Here
+### Section 01 Welcome, Welcome, Welcome!
+### Section 02 Natours Project — Setup and First Steps (Part 1)
+### Section 03 How CSS Works, A Look Behind the Scenes
     - [ ] 011 001 01:38 Section Intro.mp4 | +++
     - [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4 | +++
     - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
@@ -14,9 +15,9 @@
     - [ ] 019 009 12:45 How CSS Renders a Website_ The Visual Formatting Model.mp4
     - [ ] 020 010 09:17 CSS Architecture, Components and BEM.mp4
     - [ ] 021 011 05:14 Implementing BEM in the Natours Project.mp4
-## 04 Introduction to SASS and NPM
-## 05 Natours Project — Using Advanced CSS and Sass (Part 2)
-## 06 Natours Project — Advanced Responsive Design (Part 3)
+### 04 Introduction to SASS and NPM
+### 05 Natours Project — Using Advanced CSS and Sass (Part 2)
+### 06 Natours Project — Advanced Responsive Design (Part 3)
     - [ ] A 054 001 00:00 Section Intro.mp4
     - [ ] A 055 002 00:00 Mobile-First vs Desktop-First and Breakpoints.mp4
     - [ ] A 056 003 00:00 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
@@ -91,7 +92,7 @@
     - [ ] 122 018 18:38 Writing Media Queries - Part 2.mp4
     - [ ] 123 019 08:35 Browser Support for CSS Grid.mp4
     - [ ] 124 020 06:44 Wrapping up the Nexter Project_ Final Considerations.mp4
-  - [ ] 10 That's It, Everyone!
+### Section 10 That's It, Everyone!
     - [ ] 125 001 02:28 See You Next Time, CSS Master!.mp4
     - [ ] 126 002 01:00 My Other Courses + Updates.html
 
