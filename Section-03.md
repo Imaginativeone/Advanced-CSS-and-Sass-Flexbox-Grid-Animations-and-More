@@ -21,6 +21,13 @@
   - 07:36 End of Setup
   - 09:15 End of Exercise
 
+| Inline 	| IDs 	| Classes 	| Elements 	|
+|--------	|-----	|---------	|----------	|
+| 0      	| 0   	| 1       	| 0        	|
+| 0      	| 1   	| 2       	| 2        	|
+| 0      	| 0   	| 0       	| 1        	|
+| 0      	| 1   	| 2       	| 1        	|
+
 - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
 - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
 - [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
