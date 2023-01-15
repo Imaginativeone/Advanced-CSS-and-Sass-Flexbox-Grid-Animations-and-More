@@ -19,6 +19,7 @@
 
   - 05:11 Calculating Specificities: Example Exercise
   - 07:36 End of Setup
+  - 09:15 End of Exercise
 
 - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
 - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
