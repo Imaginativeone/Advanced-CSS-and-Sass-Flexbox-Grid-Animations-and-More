@@ -9,13 +9,13 @@
 - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
 - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4 | +++
 
-| **Importance**<br/>                          | Same importance?<br/>**Specificity** | **Source Order**<br/> |
-|----------------------------------------------|--------------------------------------|-----------------------|
-| 1. User !important declarations              | 1. Inline Styles                     |                       |
-| 2. Author !important declarations            | 2. IDs                               |                       |
-| 3. Author declarations                       | 3. Classes, pseudoclasses, attribute |                       |
-| 4. User declarations                         | 4. Elements, pseudoelements          |                       |
-| 5. Default browser (User Agent) declarations |                                      |                       |
+| **Importance**<br/>                          | Same importance?<br/>**Specificity** | **Source Order**<br/>                           |
+|----------------------------------------------|--------------------------------------|-------------------------------------------------|
+| 1. User !important declarations              | 1. Inline Styles                     | 1. The last declaration to be used, beats a tie |
+| 2. Author !important declarations            | 2. IDs                               |                                                 |
+| 3. Author declarations                       | 3. Classes, pseudoclasses, attribute |                                                 |
+| 4. User declarations                         | 4. Elements, pseudoelements          |                                                 |
+| 5. Default browser (User Agent) declarations |                                      |                                                 |
 
   - 05:11 Calculating Specificities: Example Exercise
   - 07:36 End of Setup
