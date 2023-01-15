@@ -4,97 +4,30 @@
 ### Section 01 Welcome, Welcome, Welcome!
 ### Section 02 Natours Project — Setup and First Steps (Part 1)
 ### Section 03 How CSS Works, A Look Behind the Scenes
-    - [ ] 011 001 01:38 Section Intro.mp4 | +++
-    - [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4 | +++
-    - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
-    - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4 | +++
-    - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
-    - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
-    - [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
-    - [ ] 018 008 14:01 Converting px to rem: An Effective Workflow.mp4
-    - [ ] 019 009 12:45 How CSS Renders a Website_ The Visual Formatting Model.mp4
-    - [ ] 020 010 09:17 CSS Architecture, Components and BEM.mp4
-    - [ ] 021 011 05:14 Implementing BEM in the Natours Project.mp4
+- [ ] 011 001 01:38 Section Intro.mp4 | +++
+- [ ] 012 002 04:21 Three Pillars of Writing Good HTML and CSS (Never Forget Them!).mp4 | +++
+- [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
+- [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4 | +++
+
+| **Importance**                    | **Specificity** | **Source Order** |
+|-----------------------------------|-----------------|------------------|
+| 1. User !important declarations   |                 |                  |
+| 2. Author !important declarations |                 |                  |
+
+- [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
+- [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
+- [ ] 017 007 04:05 How CSS is Parsed, Part 3: Inheritance.mp4
+- [ ] 018 008 14:01 Converting px to rem: An Effective Workflow.mp4
+- [ ] 019 009 12:45 How CSS Renders a Website_ The Visual Formatting Model.mp4
+- [ ] 020 010 09:17 CSS Architecture, Components and BEM.mp4
+- [ ] 021 011 05:14 Implementing BEM in the Natours Project.mp4
 ### 04 Introduction to SASS and NPM
 ### 05 Natours Project — Using Advanced CSS and Sass (Part 2)
 ### 06 Natours Project — Advanced Responsive Design (Part 3)
-    - [ ] A 054 001 00:00 Section Intro.mp4
-    - [ ] A 055 002 00:00 Mobile-First vs Desktop-First and Breakpoints.mp4
-    - [ ] A 056 003 00:00 Let's Use the Power of Sass Mixins to Write Media Queries.mp4
-    - [ ] A 057 004 00:00 Writing Media Queries - Base, Typography and Layout.mp4
-    - [ ] A 058 005 00:00 Writing Media Queries - Layout, About and Features Sections.mp4
-    - [ ] A 059 006 00:00 Writing Media Queries - Tours, Stories and Booking Sections.mp4
-    - [ ] B 060 007 00:00 An Overview of Responsive Images.mp4
-    - [ ] B 061 008 00:00 Responsive Images in HTML - Art Direction and Density Switching.mp4
-    - [ ] B 062 009 00:00 Responsive Images in HTML - Density and Resolution Switching.mp4
-    - [ ] B 063 010 00:00 Responsive Images in CSS.mp4
-    - [ ] B 064 011 00:00 Testing for Browser Support with @supports.mp4
-    - [ ] B 065 012 00:00 Setting up a Simple Build Process with NPM Scripts.mp4
-    - [ ] B 066 013 00:00 Wrapping up the Natours Project_ Final Considerations.mp4
-  - [ ] 07 Trillo Project — Master Flexbox!
-    - [ ] B 067 001 00:00 Section Intro.mp4
-    - [ ] B 068 002 00:00 Why Flexbox_ An Overview of the Philosophy Behind Flexbox.mp4
-    - [ ] B 069 003 00:00 A Basic Intro to Flexbox_ The Flex Container.mp4
-    - [ ] A 070 004 00:00 A Basic Intro to Flexbox_ Flex Items.mp4
-    - [ ] A 071 005 00:00 A Basic Intro to Flexbox_ Adding More Flex Items.mp4
-    - [ ] A 072 006 00:00 Project Overview.mp4
-    - [ ] A 073 007 00:00 Defining Project Settings and Custom Properties.mp4
-    - [ ] A 074 008 00:00 Building the Overall Layout.mp4
-    - [ ] A 075 009 00:00 Building the Header - Part 1.mp4
-    - [ ] A 076 010 00:00 Building the Header - Part 2.mp4
-    - [ ] A 077 011 00:00 Building the Header - Part 3.mp4
-    - [ ] A 078 012 00:00 Building the Navigation - Part 1.mp4
-    - [ ] A 079 013 00:00 Building the Navigation - Part 2.mp4
-    - [ ] B 080 014 00:00 Building the Hotel Overview - Part 1.mp4
-    - [ ] B 081 015 00:00 Building the Hotel Overview - Part 2.mp4
-    - [ ] B 082 016 00:00 Building the Description Section - Part 1.mp4
-    - [ ] B 083 017 00:00 Building the Description Section - Part 2.mp4
-    - [ ] B 084 018 00:00 Building the User Reviews Section.mp4
-    - [ ] B 085 019 00:00 Building the CTA Section.mp4
-    - [ ] B 086 020 00:00 Writing Media Queries - Part 1.mp4
-    - [ ] B 087 021 00:00 Writing Media Queries - Part 2.mp4
-    - [ ] B 088 022 00:00 Wrapping up the Trillo Project_ Final Considerations.mp4
-  - [ ] 08 A Quick Introduction to CSS Grid Layouts
-    - [ ] B 089 001 00:00 Section Intro.mp4
-    - [ ] A 090 002 00:00 Why CSS Grid_ A Whole New Mindset.mp4
-    - [ ] A 091 003 00:00 Quick Setup for This Section.mp4
-    - [ ] A 092 004 00:00 Creating Our First Grid.mp4
-    - [ ] A 093 005 00:00 Getting Familiar with the fr Unit.mp4
-    - [ ] A 094 006 00:00 Positioning Grid Items.mp4
-    - [ ] A 095 007 00:00 Spanning Grid Items.mp4
-    - [ ] A 096 008 00:00 Grid Challenge.mp4
-    - [ ] A 097 009 00:00 Grid Challenge_ A Basic Solution.mp4
-    - [ ] A 098 010 00:00 Naming Grid Lines.mp4
-    - [ ] A 099 011 00:00 Naming Grid Areas.mp4
-    - [ ] B 100 012 00:00 Implicit Grids vs. Explicit Grids.mp4
-    - [ ] B 101 013 00:00 Aligning Grid Items.mp4
-    - [ ] B 102 014 00:00 Aligning Tracks.mp4
-    - [ ] B 103 015 00:00 Using min-content, max-content and the minmax() function.mp4
-    - [ ] B 104 016 00:00 Responsive Layouts with auto-fit and auto-fill.mp4
-  - [ ] 09 Nexter Project — Master CSS Grid Layouts!
-    - [ ] B 105 001 00:00 Project Overview and Setup.mp4
-    - [ ] B 106 002 00:00 Building the Overall Layout - Part 1.mp4
-    - [ ] B 107 003 00:00 Building the Overall Layout - Part 2.mp4
-    - [ ] B 108 004 00:00 Building the Features Section - Part 1.mp4
-    - [ ] B 109 005 00:00 Building the Features Section - Part 2.mp4
-    - [ ] A 110 006 00:00 Building the Story Section - Part 1.mp4
-    - [ ] A 111 007 00:00 Building the Story Section - Part 2.mp4
-    - [ ] A 112 008 00:00 Building the Homes Section - Part 1.mp4
-    - [ ] A 113 009 00:00 Building the Homes Section - Part 2.mp4
-    - [ ] A 114 010 00:00 Building the Gallery - Part 1.mp4
-    - [ ] A 115 011 00:00 Building the Gallery - Part 2.mp4
-    - [ ] A 116 012 00:00 Building the Footer.mp4
-    - [ ] A 117 013 00:00 Building the Sidebar.mp4
-    - [ ] A 118 014 00:00 Building the Header - Part 1.mp4
-    - [ ] A 119 015 00:00 Building the Header - Part 2.mp4
-    - [ ] B 120 016 00:00 Building the Realtors Section.mp4
-    - [ ] 121 017 17:12 Writing Media Queries - Part 1.mp4
-    - [ ] 122 018 18:38 Writing Media Queries - Part 2.mp4
-    - [ ] 123 019 08:35 Browser Support for CSS Grid.mp4
-    - [ ] 124 020 06:44 Wrapping up the Nexter Project_ Final Considerations.mp4
+### 07 Trillo Project — Master Flexbox!
+### 08 A Quick Introduction to CSS Grid Layouts
+### 09 Nexter Project — Master CSS Grid Layouts!
 ### Section 10 That's It, Everyone!
-    - [ ] 125 001 02:28 See You Next Time, CSS Master!.mp4
-    - [ ] 126 002 01:00 My Other Courses + Updates.html
 
 ## Legend
 X - Watched the video, didn't do the code yet
