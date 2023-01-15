@@ -11,10 +11,10 @@
 
 | **Importance**<br/>                          | Same importance?<br/>**Specificity** | **Source Order**<br/> |
 |----------------------------------------------|--------------------------------------|-----------------------|
-| 1. User !important declarations              |                                      |                       |
-| 2. Author !important declarations            |                                      |                       |
-| 3. Author declarations                       |                                      |                       |
-| 4. User declarations                         |                                      |                       |
+| 1. User !important declarations              | 1. Inline Styles                     |                       |
+| 2. Author !important declarations            | 2. IDs                               |                       |
+| 3. Author declarations                       | 3. Classes, pseudoclasses, attribute |                       |
+| 4. User declarations                         | 4. Elements, pseudoelements          |                       |
 | 5. Default browser (User Agent) declarations |                                      |                       |
 
 - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
