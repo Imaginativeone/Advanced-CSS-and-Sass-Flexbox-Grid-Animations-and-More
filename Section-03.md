@@ -9,10 +9,13 @@
 - [ ] 013 003 04:32 How CSS Works Behind the Scenes: An Overview.mp4 | +++
 - [ ] 014 004 12:33 How CSS is Parsed, Part 1: The Cascade and Specificity.mp4 | +++
 
-| **Importance**                    | **Specificity** | **Source Order** |
-|-----------------------------------|-----------------|------------------|
-| 1. User !important declarations   |                 |                  |
-| 2. Author !important declarations |                 |                  |
+| **Importance**                               | **Specificity** | **Source Order** |
+|----------------------------------------------|-----------------|------------------|
+| 1. User !important declarations              |                 |                  |
+| 2. Author !important declarations            |                 |                  |
+| 3. Author declarations                       |                 |                  |
+| 4. User declarations                         |                 |                  |
+| 5. Default browser (User Agent) declarations |                 |                  |
 
 - [ ] 015 005 05:55 Specificity in Practice.mp4 | Got to this one
 - [ ] 016 006 10:46 How CSS is Parsed, Part 2: Value Processing.mp4
